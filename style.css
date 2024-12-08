@@ -1,0 +1,242 @@
+body {
+    background: rgb(146, 83, 0);
+    font: 1em sans-serif;
+    height: 3000px;
+}
+
+.title h1 {
+    color: #fff;
+    text-align: center;
+    background-color: rgb(93, 53, 0);
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.text1 p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5; 
+    padding: 20px;
+    background-color: rgb(99, 56, 0);
+    border-radius: 15px;
+}
+
+.text2 h2 {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 3px;
+}
+
+.text2 p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5; 
+    padding: 15px 20px;
+    background-color: rgb(99, 56, 0);
+    border-radius: 15px;
+}
+
+.text2 img {
+    width: 50%;
+    border-radius: 15px;
+    margin-left: 20px;
+    display: block;
+}
+
+.text3 h2 {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 3px;
+}
+
+.text3 p {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-right: 15px;
+}
+
+.text3 li {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 3px;
+}
+
+.text4 h2 {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 3px;
+    margin-top: 35px;
+}
+
+.text4 h3 {
+    color: #fff;
+    font-size: 17px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 5px;
+    margin-right: 15px;
+}
+
+.text4 li {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 3px;
+}
+
+.text4 p {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+.text4 img {
+    width: 50%;
+    border-radius: 15px;
+    margin-left: 20px;
+    display: block;
+}
+
+.text5 h2 {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 3px;
+    margin-top: 35px;
+}
+
+.text5 h3 {
+    color: #fff;
+    font-size: 17px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 5px;
+    margin-right: 15px;
+}
+
+.text5 p {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+.text5 img {
+    width: 50%;
+    border-radius: 15px;
+    margin-left: 20px;
+    display: block;
+}
+
+.text6 h2 {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 3px;
+    margin-top: 35px;
+}
+
+.text6 h3 {
+    color: #fff;
+    font-size: 17px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 5px;
+    margin-right: 15px;
+}
+
+.text6 p {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+
+.text6 img {
+    width: 50%;
+    border-radius: 15px;
+    margin-left: 20px;
+    display: block;
+}
+
+.conclusions h2 {
+    color: #fff;
+    text-align: center;
+    background-color: rgb(93, 53, 0);
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.conclusions li {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block; 
+    background-color: rgb(99, 56, 0);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 3px;
+}
+
+.conclusions img{
+    width: 50%;
+    border-radius: 15px;
+    margin-left: 20px;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .text2 img, .text4 img, .text5 img, .text6 img, .conclusions img {
+        width: 80%;
+    }
+}
+
+@media (min-width: 769px) {
+    .text2 img, .text4 img, .text5 img, .text6 img, .conclusions img {
+        width: 45%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
